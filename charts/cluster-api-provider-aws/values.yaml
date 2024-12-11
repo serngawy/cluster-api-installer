@@ -1,0 +1,7 @@
+awsEncodedCredentials: ""
+awsIAMRole: ""
+ocmToken: ""
+manager:
+  image:
+    tag: v4.17
+    url: registry.redhat.io/openshift4/ose-aws-cluster-api-controllers-rhel9
